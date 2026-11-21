@@ -1,4 +1,5 @@
 {
   "version": "0.1.1112",
-  "notes": "## Carify 0.1.1112\n\n- Added confirmed OBD-II fault-code clearing with Arabic and English guidance.\n- Added the in-dashboard OBD-II fault scanner with Arabic language support.\n\nOfficial source: https://github.com/mohamedosman07/Carify-OS"
+  "notes": "## Carify 0.1.1112\n\n- Added confirmed OBD-II fault-code clearing with Arabic and English guidance.\n- Added the in-dashboard OBD-II fault scanner with Arabic language support.\n\nOfficial source: https://github.com/mohamedosman07/Carify-OS",
+  "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
