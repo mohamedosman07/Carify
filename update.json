@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1131",
-  "notes": "# Carify v0.1.1131\n\n## What's changed\n- Use public release and source archive links in README\n- Use positive Carify identity checks in source publication workflow\n- Validate complete GPL source archive contents\n- Fix source archive packaging directory layout\n- Preserve complete third-party license texts and attributions\n- Add Project Nayuki MIT license text\n- Add Apache-2.0 license text for bundled assets and library\n- Add mapsforge LGPL-3.0 license text\n- Publish public source archive link in updater metadata\n- Complete GPL source archive contents and identity check\n- Attach corresponding GPL source to future public APK releases\n- Publish GPL corresponding source with public Carify release\n- Refresh Carify changelog for latest published release\n- Document standalone Carify source build\n- Finalize native build workflow and updater metadata encoding\n- Remove upstream build machinery and obsolete patch scripts\n- Make Carify build independently from native source (#105)\n\n## Build\n- Version: 0.1.1131\n- Commit: 5a251426ce65d72cde991abbdbca471b6ee02b3d\n",
+  "version": "0.1.1144",
+  "notes": "# Carify v0.1.1144\n\n## What's changed\n- Detect repackaged Carify APKs by release certificate (#106)\n\n## Build\n- Version: 0.1.1144\n- Commit: 938a9909a2d9c232fb60e71ddb88aba8542091de\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
