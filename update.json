@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1144",
-  "notes": "# Carify v0.1.1144\n\n## What's changed\n- Detect repackaged Carify APKs by release certificate (#106)\n\n## Build\n- Version: 0.1.1144\n- Commit: 938a9909a2d9c232fb60e71ddb88aba8542091de\n",
+  "version": "0.1.1155",
+  "notes": "# Carify v0.1.1155\n\n## What's changed\n- Gate optional TPMS and OBD UI behind service switches; harden release metadata (#107)\n\n## Build\n- Version: 0.1.1155\n- Commit: 1ed86fbabab07684543131b2ecf90407bf92037f\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
