@@ -3,8 +3,8 @@
 Carify is an open-source Android launcher for automotive head units.
 
 - **Signed APK releases:** https://github.com/mohamedosman07/Carify/releases
-- **Official source repository:** https://github.com/mohamedosman07/Carify-OS
+- **Corresponding GPL-3.0 source:** each release includes a `Carify-source-<version>.zip` archive alongside the APK.
 - **Application ID:** `com.carify.launcher`
 - **License:** GPL-3.0
 
-Release metadata used by the in-app updater is maintained in [update.json](update.json).
+The source archive contains the complete Android Gradle project, build instructions, license, and attribution notices.
