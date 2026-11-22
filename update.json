@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1222",
-  "notes": "# Carify v1.0.1222\n\n## What's changed\n- Adaptive headlight calibration for custom Faro car photos\n- [skip ci] Carify blue brand and dedicated TPMS settings\n\n## Build\n- Version: 1.0.1222\n- Commit: 3f3f5c682f8bd8d1eaef2efb52f0b77be4b93740\n",
+  "version": "1.0.1223",
+  "notes": "# Carify v1.0.1223\n\n## What's changed\n- Restore project root and apply Faro calibration fixes\n- Fix Faro headlight calibration and apply Carify logo\n\n## Build\n- Version: 1.0.1223\n- Commit: 5ee6c4b102c09b7b71944d100d457e2575b67892\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
