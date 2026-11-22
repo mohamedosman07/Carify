@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1225",
-  "notes": "# Carify v1.0.1225\n\n## What's changed\n- Fix Faro calibration layout and paired headlight auto alignment\n\n## Build\n- Version: 1.0.1225\n- Commit: 3501009cf09f92d17fa488b3d2b21545bd737569\n",
+  "version": "1.0.1226",
+  "notes": "# Carify v1.0.1226\n\n## What's changed\n- Fix Faro beam alignment and refresh Carify brand identity\n\n## Build\n- Version: 1.0.1226\n- Commit: 90f1cd2dbabce1ed6b50fb7189681099d8701d17\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
