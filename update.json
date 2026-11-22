@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1220",
-  "notes": "# Carify v1.0.1220\n\n## What's changed\n- Remove obsolete OBD diagnostics dialog entry points\n- Render OBD fault scanner as an embedded Settings page\n- Open OBD fault scan inside the Settings page\n\n## Build\n- Version: 1.0.1220\n- Commit: 0fb2b659fcf2c263bad37554a2657f85c581ccba\n",
+  "version": "1.0.1222",
+  "notes": "# Carify v1.0.1222\n\n## What's changed\n- Adaptive headlight calibration for custom Faro car photos\n- [skip ci] Carify blue brand and dedicated TPMS settings\n\n## Build\n- Version: 1.0.1222\n- Commit: 3f3f5c682f8bd8d1eaef2efb52f0b77be4b93740\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
