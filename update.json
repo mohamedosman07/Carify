@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "notes": "# Carify v1.0.0\n\n## What's changed\n- Publish stable release after successful main build or PR merge\n- Add background TPMS trip diagnostics (#109)\n- Add manual workflow to clean old public releases\n\n## Build\n- Version: 1.0.0\n- Commit: e60377531291714d2b508b9a2db096231ff8ed32\n",
+  "version": "1.0.1215",
+  "notes": "# Carify v1.0.1215\n\n## What's changed\n- Fix dynamic release asset paths in GitHub Actions\n- Read release version name from CI build metadata\n- Generate a unique release version for every signed build\n- Publish stable release after successful main build or PR merge (#110)\n- Add background TPMS trip diagnostics (#109)\n- Add manual workflow to clean old public releases\n\n## Build\n- Version: 1.0.1215\n- Commit: 15677f246b3db25859b1197d3cd2e44c1870000a\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
