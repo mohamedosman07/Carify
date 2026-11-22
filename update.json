@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1226",
-  "notes": "# Carify v1.0.1226\n\n## What's changed\n- Fix Faro beam alignment and refresh Carify brand identity\n\n## Build\n- Version: 1.0.1226\n- Commit: 90f1cd2dbabce1ed6b50fb7189681099d8701d17\n",
+  "version": "1.0.1227",
+  "notes": "# Carify v1.0.1227\n\n## What's changed\n- Replace Carify launcher logo with verified transparent WebP asset\n\n## Build\n- Version: 1.0.1227\n- Commit: 0a9bb3515aed5f449c7eb6dd081747dc3daaef5b\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
