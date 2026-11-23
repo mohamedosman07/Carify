@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1249",
-  "notes": "# Carify v1.0.1249\n\n## What's changed\n- Fix AMOLED preview Canvas type reference\n- Guard AMOLED home control when the dock is hidden\n- Handle AMOLED dock visibility and Faro light-mode vehicle rendering\n- Polish AMOLED layout, map surface and live status handling\n- Integrate Carify AMOLED dashboard and live vehicle telemetry\n- Register Carify AMOLED theme palette\n- Add AMOLED theme drawing primitives\n\n## Build\n- Version: 1.0.1249\n- Commit: e4dd2517801799286dc945e6c8c1d7289bf660a5\n",
+  "version": "1.0.1257",
+  "notes": "# Carify v1.0.1257\n\n## What's changed\n- Fix duplicate AMOLED preview class declaration\n- Fix AMOLED GPS speed fallback after gauge refactor\n- Rebuild AMOLED dashboard to match supplied reference layout\n- Add reference-style AMOLED gauges and eco panel\n- Persist completed trip count for dashboard statistics\n\n## Build\n- Version: 1.0.1257\n- Commit: 15c8b0b593495ecf21a26e90e7261581a00c6dc4\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
