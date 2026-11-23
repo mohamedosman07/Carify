@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1263",
-  "notes": "# Carify v1.0.1263\n\n## What's changed\n- Refine AMOLED bottom dock, TPMS controls and metric cards\n\n## Build\n- Version: 1.0.1263\n- Commit: b02b409e987b1a9ee35852e5b303c67655f76417\n",
+  "version": "1.0.1265",
+  "notes": "# Carify v1.0.1265\n\n## What's changed\n- Fix duplicate Carbono maintenance fields\n- Integrate Carify Obsidian and complete Strada feature gaps\n\n## Build\n- Version: 1.0.1265\n- Commit: c25e29189191927e106c1ca56101c77a91dd69d3\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
