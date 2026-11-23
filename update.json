@@ -1,5 +1,5 @@
 {
-  "version": "1.2.3",
-  "notes": "# Carify v1.2.3\n\n## What's changed\n- Set release workflow version to 1.2.3\n- Set Carify version to 1.2.3\n- Reduce AMOLED oil life text size only\n\n## Build\n- Version: 1.2.3\n- Commit: ebeb2c067c73d2539ea093f6b08eefcdf702ffcb\n",
+  "version": "1.2.4",
+  "notes": "# Carify v1.2.4\n\n## What's changed\n- Build Carify release as 1.2.4\n- Bump Carify patch version to 1.2.4\n- Recover missing coolant and throttle PID responses\n\n## Build\n- Version: 1.2.4\n- Commit: ebca8b18e63fddbc60590ce3c29681b5ee0e5129\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
