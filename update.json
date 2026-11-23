@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1274",
-  "notes": "# Carify v1.0.1274\n\n## What's changed\n- Use track-synced timeline beside AMOLED song title\n- Polish AMOLED preview, player visualizer and Carbono panels\n\n## Build\n- Version: 1.0.1274\n- Commit: 057c8ed19d661afd8a38133ed2c726f64d00770e\n",
+  "version": "1.0.1275",
+  "notes": "# Carify v1.0.1275\n\n## What's changed\n- Keep AMOLED preview drawing compatible with min SDK\n- Use track-synced timeline beside AMOLED song title\n- Polish AMOLED preview, player visualizer and Carbono panels\n\n## Build\n- Version: 1.0.1275\n- Commit: 3c7d6163cc6da0758859907ba30c130549655598\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
