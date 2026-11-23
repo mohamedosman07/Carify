@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
-  "notes": "# Carify v1.2.2\n\n## What's changed\n- Set release workflow version to 1.2.2\n- Bump Carify version to 1.2.2\n- Enlarge AMOLED dock shortcuts and telemetry text (#124)\n\n## Build\n- Version: 1.2.2\n- Commit: 546b7d493f1db2ac99979e7ed1309ffa56c43053\n",
+  "version": "1.2.3",
+  "notes": "# Carify v1.2.3\n\n## What's changed\n- Set release workflow version to 1.2.3\n- Set Carify version to 1.2.3\n- Reduce AMOLED oil life text size only\n\n## Build\n- Version: 1.2.3\n- Commit: ebeb2c067c73d2539ea093f6b08eefcdf702ffcb\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
