@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1265",
-  "notes": "# Carify v1.0.1265\n\n## What's changed\n- Fix duplicate Carbono maintenance fields\n- Integrate Carify Obsidian and complete Strada feature gaps\n\n## Build\n- Version: 1.0.1265\n- Commit: c25e29189191927e106c1ca56101c77a91dd69d3\n",
+  "version": "1.0.1266",
+  "notes": "# Carify v1.0.1266\n\n## What's changed\n- Polish Obsidian dashboard and complete AMOLED layout fixes\n\n## Build\n- Version: 1.0.1266\n- Commit: 9cca4af65f438a8d678bd73ac4586b93fed3e2b2\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
