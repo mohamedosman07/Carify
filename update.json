@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1267",
-  "notes": "# Carify v1.0.1267\n\n## What's changed\n- Complete Obsidian layout and AMOLED dashboard refinements\n\n## Build\n- Version: 1.0.1267\n- Commit: 2aca3d40facfbb87bb4bc9cf6999b3d6c24b7e3d\n",
+  "version": "1.0.1268",
+  "notes": "# Carify v1.0.1268\n\n## What's changed\n- Fix portrait quick panel stacking and AMOLED microphone control\n\n## Build\n- Version: 1.0.1268\n- Commit: 287c43867e39720e64f918a2afff24c3c6fc751a\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
