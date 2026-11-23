@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1257",
-  "notes": "# Carify v1.0.1257\n\n## What's changed\n- Fix duplicate AMOLED preview class declaration\n- Fix AMOLED GPS speed fallback after gauge refactor\n- Rebuild AMOLED dashboard to match supplied reference layout\n- Add reference-style AMOLED gauges and eco panel\n- Persist completed trip count for dashboard statistics\n\n## Build\n- Version: 1.0.1257\n- Commit: 15c8b0b593495ecf21a26e90e7261581a00c6dc4\n",
+  "version": "1.0.1261",
+  "notes": "# Carify v1.0.1261\n\n## What's changed\n- Restore stable AMOLED drawing primitives\n- Restore stable AMOLED startup path\n\n## Build\n- Version: 1.0.1261\n- Commit: 0908417f944bf9663e1c1a2c66657bfe87f820e9\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
