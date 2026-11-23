@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1272",
-  "notes": "# Carify v1.0.1272\n\n## What's changed\n- Fix Carbono glass panels and headlight bounds\n\n## Build\n- Version: 1.0.1272\n- Commit: 2bc30432253e89c30ec26f5f78c9db3c16dba984\n",
+  "version": "1.0.1274",
+  "notes": "# Carify v1.0.1274\n\n## What's changed\n- Use track-synced timeline beside AMOLED song title\n- Polish AMOLED preview, player visualizer and Carbono panels\n\n## Build\n- Version: 1.0.1274\n- Commit: 057c8ed19d661afd8a38133ed2c726f64d00770e\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
