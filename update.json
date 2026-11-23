@@ -1,5 +1,5 @@
 {
   "version": "1.2.6",
-  "notes": "# Carify v1.2.6\n\n## What's changed\n- Bump Carify release to 1.2.6\n- Bump Carify release to 1.2.6\n- Reset TPMS process promptly after failed UVC rebind\n\n## Build\n- Version: 1.2.6\n- Commit: 86522033469a267c2d0bc1a6d3c23a32b0ff3314\n",
+  "notes": "# Carify v1.2.6\n\n## What's changed\n- Use persistent shared trip stats and add reset action\n\n## Build\n- Version: 1.2.6\n- Commit: 41e4d56450bafb9694aca919564b4e3408083cc5\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
