@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1236",
-  "notes": "# Carify v1.0.1236\n\n## What's changed\n- Check for updates silently on every app launch\n\n## Build\n- Version: 1.0.1236\n- Commit: 2b4902473772935ba06b06b902ebc692207fba4b\n",
+  "version": "1.0.1238",
+  "notes": "# Carify v1.0.1238\n\n## What's changed\n- Avoid redundant TPMS report redraws during live polling\n- Translate TPMS diagnostics and updater strings\n- Translate TPMS diagnostics and updater strings\n- Translate TPMS diagnostics and updater strings\n- Translate TPMS diagnostics and updater strings\n- Translate TPMS diagnostics and updater strings\n- Translate TPMS diagnostics and updater strings\n- Translate TPMS diagnostics and updater strings\n- Translate TPMS diagnostics and updater strings\n- Translate TPMS diagnostics and updater strings\n- Move TPMS diagnostics scans and report export off the UI thread\n- Translate updater settings in all supported languages\n\n## Build\n- Version: 1.0.1238\n- Commit: 09b534ae890131fe73beae3589668b4bd2156838\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
