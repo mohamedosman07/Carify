@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1268",
-  "notes": "# Carify v1.0.1268\n\n## What's changed\n- Fix portrait quick panel stacking and AMOLED microphone control\n\n## Build\n- Version: 1.0.1268\n- Commit: 287c43867e39720e64f918a2afff24c3c6fc751a\n",
+  "version": "1.0.1270",
+  "notes": "# Carify v1.0.1270\n\n## What's changed\n- Fix AMOLED TPMS button color literal\n- Refine AMOLED dashboard and Obsidian glass layouts\n\n## Build\n- Version: 1.0.1270\n- Commit: 07819a167733ef8843c73af73c6c065ec4a91713\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
