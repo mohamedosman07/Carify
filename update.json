@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1262",
-  "notes": "# Carify v1.0.1262\n\n## What's changed\n- Polish AMOLED dashboard header, cards, clock and OBD panel\n\n## Build\n- Version: 1.0.1262\n- Commit: ed9f5d76c6b8039a8b0ec42da58880e05c4593ee\n",
+  "version": "1.0.1263",
+  "notes": "# Carify v1.0.1263\n\n## What's changed\n- Refine AMOLED bottom dock, TPMS controls and metric cards\n\n## Build\n- Version: 1.0.1263\n- Commit: b02b409e987b1a9ee35852e5b303c67655f76417\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
