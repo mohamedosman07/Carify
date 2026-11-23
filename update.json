@@ -1,5 +1,5 @@
 {
   "version": "1.2.1",
-  "notes": "# Carify v1.2.1\n\n## What's changed\n- Use a larger circular playback progress knob\n- Add track duration beside AMOLED progress line\n- Build Carify release as 1.2.1\n- Set Carify patch version to 1.2.1\n- Fix AMOLED player progress layout order\n- Extend AMOLED player progress line with circular indicator\n\n## Build\n- Version: 1.2.1\n- Commit: 62a2a3c42ca1b2d62945fde6cdd5707cc7328795\n",
+  "notes": "# Carify v1.2.1\n\n## What's changed\n- Enlarge AMOLED dock shortcuts and telemetry text\n\n## Build\n- Version: 1.2.1\n- Commit: d224c51453d33df009d6ac39a092d07da7145e2d\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
