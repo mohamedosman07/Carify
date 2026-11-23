@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1228",
-  "notes": "# Carify v1.0.1228\n\n## What's changed\n- Fix TPMS recovery, Auto theme startup, and Faro vehicle lights\n\n## Build\n- Version: 1.0.1228\n- Commit: 53e53371a70d93a6a2ff6649d8791a1ad676c98f\n",
+  "version": "1.0.1233",
+  "notes": "# Carify v1.0.1233\n\n## What's changed\n- Publish live vehicle motion to TPMS process\n- Read TPMS motion from live IPC snapshot\n- Fix TPMS motion IPC across processes\n\n## Build\n- Version: 1.0.1233\n- Commit: 6cfe2e50c00e28fbc1d8552b17f1efbee6e9b08d\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
