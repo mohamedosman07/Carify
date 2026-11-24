@@ -1,5 +1,5 @@
 {
   "version": "1.2.6",
-  "notes": "# Carify v1.2.6\n\n## What's changed\n- Use persistent shared trip stats and add reset action\n\n## Build\n- Version: 1.2.6\n- Commit: 41e4d56450bafb9694aca919564b4e3408083cc5\n",
+  "notes": "# Carify v1.2.6\n\n## What's changed\n- Dispatch TPMS vendor frames off the UI thread\n- Use persistent shared trip stats and add reset action (#130)\n\n## Build\n- Version: 1.2.6\n- Commit: 25523ab83f75007d3a7590c3f8ab568275a664c0\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
