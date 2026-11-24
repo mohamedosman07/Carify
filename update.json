@@ -1,5 +1,5 @@
 {
-  "version": "1.2.7",
-  "notes": "# Carify v1.2.7\n\n## What's changed\n- Carify 1.2.7 – TPMS callback fix\n- Dispatch TPMS vendor frames off the UI thread (#131)\n- Use persistent shared trip stats and add reset action (#130)\n\n## Build\n- Version: 1.2.7\n- Commit: b223e873cdde037ccaf3f2d0897d9d9dda7678d8\n",
+  "version": "1.2.8",
+  "notes": "# Carify v1.2.8\n\n## What's changed\n- Fix TPMS recovery during transient USB re-enumeration\n\n## Build\n- Version: 1.2.8\n- Commit: ad59bf9ace84fe984dc4d9fe12bf3828bd882b30\n",
   "source_archive": "https://github.com/mohamedosman07/Carify/releases/latest"
 }
